@@ -9,3 +9,11 @@ The source code and design files are included in this repo.
 Youtube : https://www.youtube.com/watch?v=lZ1UnKv1WdM
 
 https://www.youtube.com/watch?v=JXyHQdVr9OM
+
+Contributors :
+
+Pasindu Liyanage
+
+Sachithra Indrajith
+
+Tharumal Wimalasekara
